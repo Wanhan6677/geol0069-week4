@@ -108,7 +108,7 @@ plt.show()
 
 
     
-![png](README_files/README_6_0.png)
+![png](k mean.png)
     
 
 
